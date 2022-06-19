@@ -1,7 +1,7 @@
 # Instructions for Bankist Application
 
 - Click the link below to view the product.
-- [bankist_app.surge.sh](bankist_app.surge.sh).
+- [https://bankist_app.surge.sh](https://bankist_app.surge.sh).
 
 ## Login Credentials:
 
